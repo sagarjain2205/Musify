@@ -17,7 +17,7 @@ Experience Musify directly in your browser.
 
 ## 🎧 Musify Interface Preview
 
-![Musify UI](img/preview.png)
+![Musify UI](preview.png)
 
 ---
 
