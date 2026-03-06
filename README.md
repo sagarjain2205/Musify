@@ -15,12 +15,6 @@ Experience Musify directly in your browser.
 
 ---
 
-## 🎧 Musify Interface Preview
-
-![Musify UI](preview.png)
-
----
-
 ## 🚀 Features
 
 ✨ Clean music player interface  
