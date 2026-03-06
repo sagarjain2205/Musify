@@ -1,4 +1,7 @@
 {
-    "title": "Go Funky",
-    "description": "Lets go Funky"
+  "title": "Funky Mood",
+  "description": "Funky vibe music",
+  "songs": [
+    "funky_music.mp3"
+  ]
 }

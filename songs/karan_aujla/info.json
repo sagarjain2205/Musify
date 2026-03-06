@@ -1,4 +1,11 @@
 {
-    "title": "Karan Aujla",
-    "description": "Karan Aujla for you"
+  "title": "Karan Aujla",
+  "description": "Karan Aujla Hits",
+  "songs": [
+    "52_Bars.mp3",
+    "Mexico.mp3",
+    "on_top.mp3",
+    "Wavy_1.mp3",
+    "Winning_Speech.mp3"
+  ]
 }

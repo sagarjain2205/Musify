@@ -1,4 +1,9 @@
 {
-    "title": "Kr$na",
-    "description": "DHH rapper"
+  "title": "KR$NA",
+  "description": "KR$NA Rap Songs",
+  "songs": [
+    "Blowing_up.mp3",
+    "Saza_E_Maut.mp3",
+    "Woh_Raat.mp3"
+  ]
 }

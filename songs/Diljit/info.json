@@ -1,4 +1,12 @@
 {
-    "title": "Diljit Dosanjh",
-    "description": "Diljit Dosanjh hits"
+  "title": "Diljit",
+  "description": "Diljit Dosanjh Hits",
+  "songs": [
+    "5_Taara.mp3",
+    "Born_To_Shine.mp3",
+    "Goat.mp3",
+    "Lover.mp3",
+    "Putt_Jatt_Da_.mp3",
+    "Water.mp3"
+  ]
 }

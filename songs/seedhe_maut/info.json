@@ -1,4 +1,11 @@
 {
-    "title": "Seedhe Maut",
-    "description": "best DHH rapper duo"
+  "title": "Seedhe Maut",
+  "description": "Seedhe Maut Rap",
+  "songs": [
+    "Naksha.mp3",
+    "Nanchaku.mp3",
+    "Nawazuddin.mp3",
+    "Raat_ki_Rani.mp3",
+    "Shutdown.mp3"
+  ]
 }
